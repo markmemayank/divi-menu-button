@@ -1,9 +1,9 @@
 <?php
 /**
  * Plugin Name: Divi Menu Button
- * Description: Adds a button to the Divi menu.
+ * Description: to be updated
  * Version: 1.0.0
- * Author: Your Name
+ * Author: Mayank Kumar
  **/
 
 function divi_menu_button() {
