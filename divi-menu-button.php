@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Divi Menu Button
  * Description: Description will be here
- * Version: 1.0.1
+ * Version: 1.0.2
  * Author: Mayank Kumar
  **/
 
